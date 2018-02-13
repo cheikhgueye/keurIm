@@ -1,0 +1,3 @@
+keurgu_iimmo_homepage:
+    path:     /
+    defaults: { _controller: KEURGUIimmoBundle:Default:index }
